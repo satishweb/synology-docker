@@ -1,0 +1,11 @@
+{
+   "data-root" : "/var/packages/Docker/target/docker",
+   "ip-forward" : true,
+   "ip-masq" : true,
+   "iptables" : true,
+   "log-driver" : "db",
+   "registry-mirrors" : [],
+   "selinux-enabled" : false,
+   "storage-driver" : "btrfs",
+   "userland-proxy" : false
+}
